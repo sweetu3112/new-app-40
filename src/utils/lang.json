@@ -1,0 +1,17 @@
+{
+    "en":{        "welcomeMessage": "Welcome!",
+        "normalMessage": "We hope you enjoy learning React.",
+        "greetingMessage": "Have a great day!"
+    },
+    "mr":{
+        "welcomeMessage": "स्वागत आहे ",
+        "normalMessage": "आशा आहे कि तुम्हाला React शिकण्यात मजा येईल ",
+        "greetingMessage": "आपला दिवस चांगला जावो"
+    },
+    "hi":{
+        "welcomeMessage":"स्वागत है ",
+        "normalMessage":"हमें आशा है कि आप React सिखने का आनंद लेंगे",
+        "greetingMessage":"आपका दिन अच्छा हो"
+    }
+
+}
